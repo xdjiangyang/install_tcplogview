@@ -18,3 +18,4 @@ Event Time,Event Type,Local Address,Remote Address,Remote Host Name,Local Port,R
 2017/5/20 19:08:35,Close,192.168.2.121,151.101.72.133,,24643,443,6916,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,
 2017/5/20 19:08:35,Close,192.168.2.121,151.101.72.133,,24644,443,6916,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,
 2017/5/20 19:08:35,Close,192.168.2.121,151.101.72.133,,24645,443,6916,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,
+2017/5/20 19:08:58,Open,192.168.2.121,180.149.145.241,,24672,443,11836,BaiduNetdisk.exe,C:\Users\localhost\AppData\Roaming\baidu\BaiduNetdisk\BaiduNetdisk.exe,
