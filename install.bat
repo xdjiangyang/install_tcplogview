@@ -12,4 +12,4 @@ set TcpLogViewDir=tcplogview
 set TcpLogViewFullPath=%ProgramFilesDir%\%TcpLogViewDir%
 md %TcpLogViewFullPath%
 xcopy %~dp0%TcpLogViewDir% %TcpLogViewFullPath%
-reg add TcpLogView /v %TcpLogViewDir% /t REG_SZ /d %TcpLogViewFullPath%\%TcpLogViewFile%
+reg add %RegPath% /v %TcpLogViewDir% /t REG_SZ /d \"%TcpLogViewFullPath%\%TcpLogViewFile%\"
